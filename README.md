@@ -1,2 +1,2 @@
 # JavaNew
-my firs project
+my first project
